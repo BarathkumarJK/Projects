@@ -1,2 +1,2 @@
 # Projects
-In This repo I will add my simple project cod
+In This repo I will add my simple projects
